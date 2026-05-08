@@ -1,4 +1,4 @@
-Sistema de Automatização de Produtos
+Sistema de Automação de Produtos
 
 Projeto desenvolvido em Python para automatizar processos relacionados a produtos, tornando tarefas repetitivas mais rápidas e eficientes.
 
@@ -7,7 +7,7 @@ Python
 Automação de Processos
 Git & GitHub
 Estrutura do Projeto
-Sistema-de-Automatizacao-de-Produtos/
+Sistema-de-Automacao-de-Produtos/
 │
 ├── automatizacao.py
 ├── posicaomouse.py
